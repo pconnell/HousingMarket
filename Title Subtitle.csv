@@ -1,6 +1,11 @@
-﻿Household,Subtitle,Title
-Studio,,
-1BR,,
-2BR,,
-3BR,,
-4BR,,
+﻿Key,Household,Title,Subtitle
+Studio-1SD,Studio,Studios Here Increased More than 68% of other US States,Here's hoping your wages went up accordingly
+Studio-2SD,Studio,Studios Here Increased More than 95% of other US States,"You'll need to make good money to live in RI, MD, or DE"
+1BR-1SD,1BR,1 Bedroom Rents Here Increased more than 68% of other US States,
+1BR-2SD,1BR,1 Bedroom Rents Here Increased more than 95% of other US States,
+2BR-1SD,2BR,2 Bedroom Rents Here Increased more than 68% of other US States,
+2BR-2SD,2BR,2 Bedroom Rents Here Increased more than 95% of other US States,
+3BR-1SD,3BR,3 Bedroom Rents Here Increased more than 68% of other US States,
+3BR-2SD,3BR,3 Bedroom Rents Here Increased more than 95% of other US States,
+4BR-1SD,4BR,4 Bedroom Rents Here Increased more than 68% of other US States,
+4BR-2SD,4BR,4 Bedroom Rents Here Increased more than 95% of other US States,
